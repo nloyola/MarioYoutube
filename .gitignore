@@ -5,3 +5,8 @@ gradle/*
 uiPreview.svg
 tilesets.svg
 assets/fonts/*
+/target/
+/.classpath
+/.project
+/.settings/
+/bin/
